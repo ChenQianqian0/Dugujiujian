@@ -7,6 +7,7 @@ public class Dugujiujian {
 		Date date = new Date();
 		System.out.println("1111");
 		System.out.println("new day");
+		System.out.println("new day11");
 		
 	}
 
